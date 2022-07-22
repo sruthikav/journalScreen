@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		894573A72889F02400A51722 /* AddEntryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 894573A62889F02400A51722 /* AddEntryViewController.swift */; };
 		895C58D62889C1700018C5C1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 895C58D52889C1700018C5C1 /* AppDelegate.swift */; };
 		895C58D82889C1700018C5C1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 895C58D72889C1700018C5C1 /* SceneDelegate.swift */; };
 		895C58DA2889C1700018C5C1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 895C58D92889C1700018C5C1 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		894573A62889F02400A51722 /* AddEntryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddEntryViewController.swift; sourceTree = "<group>"; };
 		895C58D22889C1700018C5C1 /* journalScreen.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = journalScreen.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		895C58D52889C1700018C5C1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		895C58D72889C1700018C5C1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				895C58D52889C1700018C5C1 /* AppDelegate.swift */,
 				895C58D72889C1700018C5C1 /* SceneDelegate.swift */,
 				895C58D92889C1700018C5C1 /* ViewController.swift */,
+				894573A62889F02400A51722 /* AddEntryViewController.swift */,
 				895C58DB2889C1700018C5C1 /* Main.storyboard */,
 				895C58E12889C1720018C5C1 /* Assets.xcassets */,
 				895C58E32889C1720018C5C1 /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 				895C58DA2889C1700018C5C1 /* ViewController.swift in Sources */,
 				895C58E02889C1700018C5C1 /* journalScreen.xcdatamodeld in Sources */,
 				895C58D62889C1700018C5C1 /* AppDelegate.swift in Sources */,
+				894573A72889F02400A51722 /* AddEntryViewController.swift in Sources */,
 				895C58D82889C1700018C5C1 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
